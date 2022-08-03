@@ -1,4 +1,4 @@
-package com.hinkmond.hello;
+package com.sherman.hello;
 
 public class Greeting {
 
